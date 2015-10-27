@@ -43,6 +43,7 @@ fi
 
 # - Install dependencies -
 brew install gcc
+brew install gfortran
 brew install swig
 brew install libpng
 
@@ -62,4 +63,9 @@ pip3 install sympy
 brew install freetype
 pip3 install matplotlib
 
+brew install zmq
+brew install pyqt5
+pip3 install gnureadline
+pip3 install pyzmq
+pip3 install pygments
 pip3 install ipython

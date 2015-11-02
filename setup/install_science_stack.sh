@@ -59,9 +59,11 @@ pip3 install nose
 pip3 install numpy
 pip3 install scipy
 pip3 install sympy
+pip3 install pandas
 
 brew install freetype
 pip3 install matplotlib
+pip3 install seaborn
 
 brew install zmq
 brew install pyqt5

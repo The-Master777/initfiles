@@ -43,7 +43,6 @@ fi
 
 # - Install dependencies -
 brew install gcc
-brew install gfortran
 brew install swig
 brew install libpng
 
